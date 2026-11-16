@@ -1,0 +1,45 @@
+MONROE LAKE — RANDOM FOREST VS JRC
+July 2017 | 20 m resolution
+
+Total valid RF pixels: 841759
+
+RF water + JRC water:
+Pixels: 82938
+Area: 33.1752 km2
+
+RF water + JRC land:
+Pixels: 999
+Area: 0.3996 km2
+
+RF land + JRC water:
+Pixels: 18
+Area: 0.0072 km2
+
+RF water + JRC unclassified:
+Pixels: 20655
+Area: 8.2620 km2
+
+RF land + JRC unclassified:
+Pixels: 15158
+Area: 6.0632 km2
+
+Total RF water pixels: 104592
+Total RF mapped water area: 41.8368 km2
+
+IMPORTANT INTERPRETATION:
+Most additional RF water predictions occur in
+JRC-unclassified regions.
+
+These predictions are not independently verified.
+
+The RF model was trained and evaluated using
+JRC-derived weak labels. Reported agreement
+with JRC must not be interpreted as independent
+classification accuracy.
+
+NEXT:
+1. Map spatial disagreements.
+2. Independently validate uncertain regions.
+3. Compare with MNDWI.
+4. Investigate feature importance.
+5. Extend to additional dates.

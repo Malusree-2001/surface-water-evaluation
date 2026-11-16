@@ -1,0 +1,17 @@
+{
+  "evaluation_type": "JRC weak-label agreement",
+  "test_blocks": 30,
+  "test_pixels": 238263,
+  "jrc_land": 213621,
+  "jrc_water": 24642,
+  "tn": 213360,
+  "fp": 261,
+  "fn": 1,
+  "tp": 24641,
+  "accuracy": 0.9989003747959188,
+  "balanced_accuracy": 0.9993688144428905,
+  "water_precision": 0.9895189141434423,
+  "water_recall": 0.9999594188783378,
+  "water_f1": 0.9947117713547554,
+  "cohen_kappa": 0.9940981812097367
+}

@@ -1,0 +1,22 @@
+{
+  "evaluation_type": "training_archive_reproducibility",
+  "samples_compared": 40000,
+  "features": [
+    "VV",
+    "VH",
+    "B2",
+    "B3",
+    "B4",
+    "B8",
+    "B11",
+    "NDWI",
+    "MNDWI",
+    "NDVI"
+  ],
+  "sklearn_version": "1.9.1",
+  "prediction_agreement": 1.0,
+  "mean_absolute_probability_difference": 1.7347234759768072e-22,
+  "max_absolute_probability_difference": 6.938893903907228e-18,
+  "original_training_agreement": 0.99995,
+  "reproduced_training_agreement": 0.99995
+}

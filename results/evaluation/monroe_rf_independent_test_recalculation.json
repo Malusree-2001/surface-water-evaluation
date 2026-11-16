@@ -1,0 +1,12 @@
+{
+  "evaluation_type": "recalculated_JRC_weak_label_agreement",
+  "test_blocks": 30,
+  "test_pixels": 238263,
+  "jrc_land": 213621,
+  "jrc_water": 24642,
+  "tn": 213360,
+  "fp": 261,
+  "fn": 1,
+  "tp": 24641,
+  "accuracy": 0.9989003747959188
+}

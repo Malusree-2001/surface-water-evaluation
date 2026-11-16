@@ -1,0 +1,15 @@
+{
+  "method": "MNDWI > 0",
+  "evaluation_type": "JRC weak-label agreement",
+  "test_pixels": 238263,
+  "tn": 211779,
+  "fp": 1842,
+  "fn": 1894,
+  "tp": 22748,
+  "accuracy": 0.9843198482349337,
+  "balanced_accuracy": 0.9572583039041127,
+  "water_precision": 0.9250915006100041,
+  "water_recall": 0.9231393555717881,
+  "water_f1": 0.9241143971400715,
+  "cohen_kappa": 0.9153710135403272
+}
